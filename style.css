@@ -1,0 +1,10 @@
+#biglietto {
+    height: 200px;
+    width: 600px;
+    background-color: lightgreen;
+    color: black;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
